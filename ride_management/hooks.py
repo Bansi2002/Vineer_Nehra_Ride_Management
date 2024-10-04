@@ -162,7 +162,7 @@ app_license = "MIT"
 # each overriding function accepts a `data` argument;
 # generated from the base implementation of the doctype dashboard,
 # along with any modifications made in other Frappe apps
-# override_doctype_dashboards = {
+# override_doctype_dashboards = {fi
 #	"Task": "ride_management.task.get_dashboard_data"
 # }
 
@@ -215,3 +215,7 @@ app_license = "MIT"
 # auth_hooks = [
 #	"ride_management.auth.validate"
 # ]
+
+fixtures = [
+    "Item","Customer","Ride Booking","Vehicle Ride"
+]

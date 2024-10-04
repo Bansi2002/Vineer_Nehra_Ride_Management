@@ -1,0 +1,32 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/files/wapcos-limited-logo-vectorc8e963.png",
+  "make": "Test",
+  "modified": "2024-10-04 13:33:25.798532",
+  "name": "db4ab18dc9",
+  "price_per_km": 100.0,
+  "type": "Car"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": null,
+  "make": "Test1",
+  "modified": "2024-10-04 13:36:23.711813",
+  "name": "5d51f133a7",
+  "price_per_km": 50.0,
+  "type": "Bike"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": null,
+  "make": "Test2",
+  "modified": "2024-10-04 13:36:42.030088",
+  "name": "a4db3c7b4d",
+  "price_per_km": 30.0,
+  "type": "Auto"
+ }
+]
