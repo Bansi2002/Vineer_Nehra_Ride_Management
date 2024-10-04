@@ -1,0 +1,13 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Client Script",
+  "dt": "Ride Booking",
+  "enabled": 1,
+  "modified": "2024-10-04 13:49:41.422941",
+  "module": null,
+  "name": "Ride Booking",
+  "script": "frappe.ui.form.on('Ride Booking', {\n\testimated_km(frm) {\n\t\tfrm.set_value('total_amount',frm.doc.estimated_km * frm.doc.price_per_km)\n\t}\n})",
+  "view": "Form"
+ }
+]

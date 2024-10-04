@@ -217,5 +217,5 @@ app_license = "MIT"
 # ]
 
 fixtures = [
-    "Item","Customer","Ride Booking","Vehicle Ride"
+    "Item","Customer","Ride Booking","Vehicle Ride","Client Script"
 ]
